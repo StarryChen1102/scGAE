@@ -30,3 +30,4 @@ matplotlib --- 3.0.3
 Usage:  
 Running example and parameter setting can be found at Run_scGAE.ipynb
 
+
